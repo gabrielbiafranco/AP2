@@ -1,0 +1,7 @@
+Este e um exemplo de texto.
+Este e outro exemplo.
+Ultimo exemplo de texto.
+Esta linha foi adicionada.
+Esta tambem.
+Esta linha foi adicionada.
+Esta tambem.
