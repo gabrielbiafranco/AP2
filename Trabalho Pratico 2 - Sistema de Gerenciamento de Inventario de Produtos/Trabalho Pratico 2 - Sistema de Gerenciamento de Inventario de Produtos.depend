@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738246261 source:c:\users\gabri\onedrive\Área de trabalho\trabalho pratico 2 - sistema de gerenciamento de inventario de produtos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
